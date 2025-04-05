@@ -1,0 +1,7 @@
+# Ignorar archivos de Python compilados
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de configuración de IDE
+.idea/
