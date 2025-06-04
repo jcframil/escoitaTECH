@@ -1,4 +1,4 @@
-# EscoitaTECH 👂: AI-Based Fault Detection in Blower Machines for Wastewater Treatment Plants 🚰🤖
+# EscoitaTECH 👂: AI-Based Fault Detection in Blower Machines for Wastewater Treatment Plants 🚰🤖 
 
 ## Introduction 🌱
 In wastewater treatment plants, blower machines play a crucial role in ensuring proper aeration for biological processes. These machines are subjected to intensive working conditions that can lead to wear and internal failures over time. Early detection of such anomalies is essential to prevent unplanned downtimes, costly repairs, and risks to continuous plant operation.
